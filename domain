@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name yourdomain.com www.yourdomain.com;
+    server_name tvnor.com www.tvnor.com;
     root /var/www/tvnor.com/html;
     index index.html index.htm index.nginx-debian.html;
     location / {
